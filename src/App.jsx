@@ -1,4 +1,5 @@
 // import AISearch from './components/ui/AISearch.jsx'
+import React from 'react'
 import './App.css'
 import AIConversation from "./components/ui/AIConversation.jsx";
 
